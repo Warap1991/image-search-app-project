@@ -81,6 +81,7 @@ body {
     text-decoration: none;
     transition: background-color 0.3s ease-in-out;
   }
+  /*
   footer{
     background-color: white;
     padding: 20px;
@@ -89,7 +90,13 @@ body {
     bottom: 0; 
     width: 100%; 
 }
-  
+  */
+  footer {
+    background-color: #4caf50;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
   .search-result:hover a {
     background-color: rgba(0, 0, 0, 0.1);
   }
